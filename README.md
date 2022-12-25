@@ -12,8 +12,13 @@
 * Contact
 * Footer
 
-### Demo Links:
+### Demo:
 [Click here for Demo](https://ina.instander.in/landing-page/)
+
+### Screenshots:
+> ![](https://lib.instander.in/s3/demos/github/landing_page_1.jpg)
+----------------------
+> ![](https://lib.instander.in/s3/demos/github/landing_page_2.jpg)
 
 ## Libraries Used:       
 + Excella Unified Bootstrap for Front-End
